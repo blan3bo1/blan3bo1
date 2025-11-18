@@ -1,7 +1,8 @@
 ## Hello Gooners 👋
 - I just make open source code that is mostly writen by ai
 - known for my amazing skills with ai
-- wanna contact me visit my [Website](https://blankboii.xyz)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Visit+My+Site)](https://blankboii.xyz)
 
 -- Random Stuff None Of Ya'll Will Read
 
